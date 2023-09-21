@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <Reshaped theme="reshaped">
         <View padding={12} direction='column' align='center' gap={8}>
-          <Text variant='featured-2'>Autofill input field with a value saved in your browser to see error</Text>
+          <Text variant='featured-2' align='center'>Autofill input field with a value saved in your browser to see error. Open developer tools/console if needed.</Text>
             <TextField
               size='large'
               name="email"
