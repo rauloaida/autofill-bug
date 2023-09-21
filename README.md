@@ -20,3 +20,6 @@ You can also see the bug on the vercel deployment if you open developer tools an
 ## The Error:
 On reshaped v2.3.2:
 Uncaught TypeError: Cannot read properties of undefined (reading 'replace')
+
+
+<img width="704" alt="Screenshot 2023-09-21 at 2 16 36 PM" src="https://github.com/rauloaida/autofill-bug/assets/16652371/d2225378-8987-4400-ab67-a2173b476d6a">
