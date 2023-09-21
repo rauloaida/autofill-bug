@@ -13,6 +13,10 @@ This project reporduces an error on autofill thrown by Reshaped.so TextField com
 8. Select an autofill value, check console for errors.
 ```
 
+You can also see the bug on the vercel deployment if you open developer tools and check console.
+
+[Autofill Bug Link](https://autofill-bug.vercel.app/)
+
 ## The Error:
 On reshaped v2.3.2:
 Uncaught TypeError: Cannot read properties of undefined (reading 'replace')
